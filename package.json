@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/hakatashi/strip-script-and-style/issues"
   },
-  "homepage": "https://github.com/hakatashi/strip-script-and-style#readme"
+  "homepage": "https://github.com/hakatashi/strip-script-and-style#readme",
+  "dependencies": {
+    "trumpet": "^1.7.2"
+  }
 }
