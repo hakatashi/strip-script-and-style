@@ -1,8 +1,12 @@
 {
   "name": "strip-script-and-style",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lightweight stream-based utility which removes any scripts and styles from the given HTML",
   "main": "index.js",
+  "bin": {
+    "strip-script-and-style": "cli.js",
+    "ssas": "cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +14,18 @@
     "type": "git",
     "url": "git+https://github.com/hakatashi/strip-script-and-style.git"
   },
-  "keywords": [],
+  "keywords": [
+    "HTML",
+    "CSS",
+    "stylesheet",
+    "script",
+    "stripper",
+    "sanitizer",
+    "validator",
+    "transform",
+    "streaming",
+    "optimization"
+  ],
   "author": "Koki Takahashi <hakatasiloving@gmail.com> (http://hakatashi.com/)",
   "license": "MIT",
   "bugs": {
