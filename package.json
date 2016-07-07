@@ -34,5 +34,10 @@
   "homepage": "https://github.com/hakatashi/strip-script-and-style#readme",
   "dependencies": {
     "trumpet": "^1.7.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "livescript": "^1.5.0",
+    "mocha": "^2.5.3"
   }
 }
