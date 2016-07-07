@@ -33,6 +33,7 @@
   },
   "homepage": "https://github.com/hakatashi/strip-script-and-style#readme",
   "dependencies": {
+    "readable-stream": "^2.1.4",
     "trumpet": "^1.7.2"
   },
   "devDependencies": {
